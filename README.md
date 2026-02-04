@@ -1,6 +1,6 @@
 # GRC Portfolio (by Jophiel Arevalo Enriquez)
 
-This portfolio curates my Governance, Risk, and Compliance (GRC) artifacts derived from **IT & Cybersecurity Governance, Policy, Ethics and Law — Assignment 1B**. It captures my ability to translate theory into practical, reusable work products across governance frameworks, security policies, incident management, technology ethics, cyber risk, insurance, and remote work.
+This portfolio curates my Governance, Risk, and Compliance (GRC) artifacts derived from **IT & Cybersecurity Governance, Policy, Ethics and Law**. It captures my ability to translate theory into practical, reusable work products across governance frameworks, security policies, incident management, technology ethics, cyber risk, insurance, and remote work.
 
 ## Structure
 - **governance-frameworks/** — COBIT & ITIL analysis and my Module 1 report.
