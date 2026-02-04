@@ -1,0 +1,9 @@
+RANSOMWARE RISK — First Person
+
+I analysed a ransomware attack scenario for a manufacturing company.
+
+I identified risks such as operational shutdowns, data loss, and financial extortion. I emphasised preventive controls like patching, segmentation, MFA, and frequent immutable backups.
+
+I also developed user awareness campaigns and incident response playbooks to improve resilience.
+
+This approach prepared the organisation for both prevention and fast recovery.
