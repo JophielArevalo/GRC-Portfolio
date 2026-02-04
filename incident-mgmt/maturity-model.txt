@@ -1,0 +1,11 @@
+INCIDENT MANAGEMENT MATURITY MODEL
+
+I evaluated incident management capabilities across five areas:
+
+Prepare — roles, plans, and insider threat program  
+Protect — risk assessments and malware prevention  
+Detect — monitoring and penetration testing  
+Respond — reporting, coordination, and analysis  
+Sustain — third‑party agreements and training
+
+I prioritised moving foundational capabilities from basic to defined, then maturing into managed levels where processes become repeatable and reliable.
