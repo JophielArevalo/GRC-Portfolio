@@ -1,0 +1,9 @@
+MODULE 1 — IT Framework Management Plan
+
+I conducted a self-evaluation of the company’s IT governance posture and determined that improving both service quality and compliance required a dual-framework approach.
+
+I used ITIL to guide improvements in IT service management and COBIT to strengthen internal controls, compliance, and alignment with business goals.
+
+My plan included identifying applicable standards, commissioning an external audit, implementing controls in phases, and maintaining continuous monitoring.
+
+This approach allowed me to uplift IT performance and rebuild organisational trust.
