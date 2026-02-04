@@ -1,4 +1,4 @@
-ETHICAL HACKING POLICY — First Person
+ETHICAL HACKING POLICY
 
 I developed an ethical hacking policy that allows controlled testing of critical systems while protecting sensitive data and ensuring legal compliance.
 
