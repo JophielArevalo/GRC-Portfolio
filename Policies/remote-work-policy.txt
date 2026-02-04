@@ -1,0 +1,9 @@
+REMOTE WORK POLICY — First Person
+
+I designed a remote work policy to balance employee privacy with strong cybersecurity requirements.
+
+I implemented baseline controls like MFA, VPN usage, device hardening, and encrypted communication. I defined expectations for handling sensitive information and wrote guidelines for safe use of personal devices and public networks.
+
+I ensured monitoring practices were transparent and privacy‑respecting, focusing on performance outcomes rather than intrusive surveillance.
+
+I also emphasised continuous training and awareness to maintain security and trust in a distributed environment.
