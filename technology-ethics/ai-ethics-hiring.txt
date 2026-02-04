@@ -1,0 +1,9 @@
+AI ETHICS IN HIRING
+
+I examined an AI hiring system that produced biased outcomes and created fairness and transparency risks.
+
+I prioritised eliminating bias, ensuring equal treatment of candidates, improving transparency, and preventing legal exposure.
+
+My recommendations included pausing the system, auditing it for bias, removing harmful features, documenting decisions, and ensuring human oversight in final selections.
+
+This approach ensured ethical hiring practices while supporting responsible technology use.
