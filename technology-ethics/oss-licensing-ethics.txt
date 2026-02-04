@@ -1,0 +1,10 @@
+OSS LICENSING ETHICS
+
+I analysed the ethical implications of using open‑source software in a sensitive data analysis tool.
+
+I compared permissive licenses with copyleft and chose copyleft as the safer option because it requires derivative work to be shared back, ensuring transparency.
+
+I also considered ethical constraints and governance structures to prevent misuse without limiting innovation.
+
+This balance helped me protect users while maintaining openness.
+``
