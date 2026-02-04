@@ -1,4 +1,4 @@
-# COBIT & ITIL Analysis — First Person
+# COBIT & ITIL Analysis
 
 ## Introduction
 I analysed a company experiencing customer dissatisfaction and repeated compliance failures. To address these issues, I combined ITIL to improve service quality and COBIT to reinforce governance, control, and alignment with business goals.
