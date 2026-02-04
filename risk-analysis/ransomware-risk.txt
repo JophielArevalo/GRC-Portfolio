@@ -1,4 +1,4 @@
-RANSOMWARE RISK — First Person
+RANSOMWARE RISK 
 
 I analysed a ransomware attack scenario for a manufacturing company.
 
