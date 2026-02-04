@@ -1,4 +1,4 @@
-DATA BREACH RESPONSE PLAN — First Person
+DATA BREACH RESPONSE PLAN
 
 I created a structured response plan for data breaches with clearly defined roles across technical, legal, and communication teams.
 
