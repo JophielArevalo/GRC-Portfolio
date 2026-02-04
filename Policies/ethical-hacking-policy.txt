@@ -1,0 +1,11 @@
+ETHICAL HACKING POLICY — First Person
+
+I developed an ethical hacking policy that allows controlled testing of critical systems while protecting sensitive data and ensuring legal compliance.
+
+The scope is preventive: testing ends once acceptable risk thresholds are met.
+
+My objectives were to identify vulnerabilities early, educate stakeholders about real impacts, and create actionable security improvements.
+
+I clarified responsibilities between ethical hackers, legal teams, and incident response units. I also established rules for written authorization, evidence handling, and detailed reporting.
+
+This policy ensures that ethical hacking strengthens security without disrupting business operations.
