@@ -1,0 +1,11 @@
+DATA BREACH RESPONSE PLAN — First Person
+
+I created a structured response plan for data breaches with clearly defined roles across technical, legal, and communication teams.
+
+The plan follows four stages:
+1. Contain — isolate systems, revoke access, secure evidence  
+2. Assess — understand what happened, what data was affected, and who is at risk  
+3. Notify — inform affected individuals and internal stakeholders, provide guidance  
+4. Review — identify lessons learned and strengthen controls
+
+This plan ensures quick action, clear accountability, and improved resilience after each incident.
