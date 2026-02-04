@@ -1,0 +1,9 @@
+INCLUSIVE TECHNOLOGY FOR SOCIAL GOOD
+
+I designed a concept for an inclusive digital platform to support LGBTQ+ individuals, offering safe spaces, psychological support, and educational resources.
+
+I integrated principles like equity, privacy, accessibility, multilingual support, and safety features for users in hostile environments.
+
+I also established stakeholder engagement loops and privacy-preserving defaults to protect vulnerable users.
+
+This work demonstrated how ethical design can support social good.
